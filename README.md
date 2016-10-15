@@ -1,4 +1,4 @@
-# Terraform_exmaple_wordpress_docker
+# Terraform_example_wordpress_docker
 Terraform based provisioner to setup wordpress on docker and ansible using mysql RDS. This code will create a VPC launch an RDS instance with privated access, launch required number of web instances running wordoress docker image and setup ELB with public access.
 
 # Pre-requisites:
